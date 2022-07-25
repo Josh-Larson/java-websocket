@@ -1,0 +1,14 @@
+# IDE-based
+out
+classes/
+.idea
+.classpath
+.project
+
+# Gradle
+build
+.gradle
+gradle.properties
+
+# Other
+deploy
